@@ -243,6 +243,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Geographic and location-based services integration. Enables access to mapping data, directions, and place information.
 
 - <img src="https://campertunity.com/assets/icon/favicon.ico" height="14"/> [Campertunity](https://github.com/campertunity/mcp-server) - Search campgrounds around the world on campertunity, check availability, and provide booking links
+- <img src="https://daedalmap.com/site-static/favicon_v1.png" height="14"/> [DaedalMap](https://daedalmap.com/docs/for-agents) - Geographic data packs for disasters, FX rates, and global indicators. New packs published weekly. Free and x402-paid execution lanes via MCP and HTTP API.
 - <img src="https://cdn.simpleicons.org/googlemaps/4285F4" height="14"/> [Google Maps](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps) - Google Maps integration for location services, routing, and place details
 - <img src="https://static.iplocate.io/custom/logo-square-rounded.png" height="14"/> [IPLocate](https://github.com/iplocate/mcp-server-iplocate) - Look up IP address geolocation, network information, detect proxies and VPNs, and find abuse contact details using IPLocate.io
 - <img src="https://www.ip2location.io/favicon.ico" height="14"/> [IP2Location.io](https://github.com/ip2location/mcp-ip2location-io) - IP2Location.io API integration to retrieve the geolocation information for an IP address.
